@@ -6,7 +6,7 @@ authors:
 - Zhijian Hou
 - Chong-Wah Ngo
 date: '2022-01-01'
-publishDate: '2024-02-23T09:45:14.682269Z'
+publishDate: '2024-02-22T07:54:55.428672Z'
 publication_types:
 - paper-conference
 publication: '*International Conference on Multimedia Modeling*'

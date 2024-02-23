@@ -12,7 +12,7 @@ authors:
 - Mike Zheng Shou
 - Nan Duan
 date: '2023-07-01'
-publishDate: '2024-02-23T09:45:14.674009Z'
+publishDate: '2024-02-22T07:54:55.420764Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 61st Annual Meeting of the Association for Computational
@@ -34,6 +34,12 @@ abstract: This paper tackles an emerging and challenging problem of long video t
   inference time by 2x on Ego4D-NLQ and 15x on MAD while keeping SOTA results. Codes
   have been released at r̆lhttps://github.com/houzhijian/CONE.
 links:
-- name: URL
+- icon_pack: fab
+  icon: scroll
+  name: URL
   url: https://aclanthology.org/2023.acl-long.445
+- icon_pack: fab
+  icon: github
+  name: code
+  url: lhttps://github.com/houzhijian/CONE
 ---
