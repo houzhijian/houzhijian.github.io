@@ -29,9 +29,9 @@ bio: ""
 
 # Interests to show in About widget
 interests:
-  - Vision and Language
-  - First-person Vision 
-  - Video Moment Retrieval
+  - Video and Language
+  - Long-form Video Understanding 
+  - Multi-modal Foundation Models
 
 # Education to show in About widget
 education:
@@ -118,7 +118,9 @@ highlight_name: true
 ---
 Hello! This is Zhijian "James" Hou (侯智健). I obtained a Ph.D. degree in [Computer Science Department](https://www.cs.cityu.edu.hk/) at City University of Hong Kong, advised by [Prof. Chong-Wah Ngo](https://faculty.smu.edu.sg/profile/ngo-chong-wah-601) and [Prof. Wing-Kwong Chan](https://www.cs.cityu.edu.hk/~wkchan/). Prior to CityU, I obtained my bachelor's degree from Shandong University in China, with guidance from [Prof. Liqiang Nie](https://liqiangnie.github.io/).
 
-I do research on Computer Vision and Natural Language Processing. I am broadly interested in video analysis and synthesis, particularly with natural language as the interface, i.e., localizing video moments via natural language sentences.  
+I do research at the intersection of video and language. 
+I am broadly interested in video analysis and synthesis using natural language as the interface. During the graduate study, I delved into the task of temporal sentence grounding in videos, which aims to localize video segments that correspond semantically to natural language queries in untrimmed videos.
+
 
 <!-- I do research on Embodied AI, NLP, and Robotics. I am interested in understanding natural language by grounding to robots and physical world, and using natural language as feedback to teach and improve embodied agent. My dream is to build and deploy household robots to homes around the world to help humans with daily tasks and needs. -->
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
