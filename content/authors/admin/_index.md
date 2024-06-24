@@ -30,7 +30,7 @@ bio: ""
 # Interests to show in About widget
 interests:
   - Video and Language
-  - Long-form Video Understanding 
+  - Multi-modal Agents 
   - Multi-modal Foundation Models
 
 # Education to show in About widget
@@ -109,9 +109,10 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  # - icon: cv
-  #   icon_pack: ai
-  #   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/Zhijian_Hou_Resume.pdf
+    
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
